@@ -4,6 +4,7 @@ The presence of gender stereotypes in many aspects of society is a well-known ph
 
 
 The dataset is collected from : https://github.com/BollywoodData/Bollywood-Data
+Test the app here:
 
 After collecting the data, 
 I import all the required libraries that is necessary for doing data analysis, 
