@@ -18,6 +18,9 @@ app.py is the streamlit file or the app file that we use to deploy the model fil
 ## Conclusion:
 I think that the first two analysis is enough for the directors to understand what is common and think of new stories or breake some stereotypes present.
 
+## output:
+We need count , average centrality and mentions as input 
+
 ## test:
 https://4nirudh5-bollowood-gender-stereotype-analysis-app-66alu5.streamlitapp.com/
 
